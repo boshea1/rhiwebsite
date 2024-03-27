@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rhiwebsite/static/css/main.f44b00cd.css",
+    "main.js": "/rhiwebsite/static/js/main.f149ddc2.js",
+    "static/media/coffee.jpg": "/rhiwebsite/static/media/coffee.6cb2e3ebbd905f66ae36.jpg",
+    "static/media/caravan.jpeg": "/rhiwebsite/static/media/caravan.4d0aec38a5c8b72d5457.jpeg",
+    "static/media/cookiespic.jpg": "/rhiwebsite/static/media/cookiespic.1ad61cab68de97b0f8ed.jpg",
+    "static/media/festival2.jpg": "/rhiwebsite/static/media/festival2.caf61de8afcba1fc0811.jpg",
+    "static/media/festival1.jpg": "/rhiwebsite/static/media/festival1.7f82fd880e32a148441b.jpg",
+    "static/media/brownies.jpg": "/rhiwebsite/static/media/brownies.45d6ed9702c7d7597005.jpg",
+    "static/media/festival3.jpg": "/rhiwebsite/static/media/festival3.e19d39fc92729fe5f5f3.jpg",
+    "static/media/festival4.jpg": "/rhiwebsite/static/media/festival4.3f71869e8db1917bc6aa.jpg",
+    "index.html": "/rhiwebsite/index.html",
+    "main.f44b00cd.css.map": "/rhiwebsite/static/css/main.f44b00cd.css.map",
+    "main.f149ddc2.js.map": "/rhiwebsite/static/js/main.f149ddc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f44b00cd.css",
+    "static/js/main.f149ddc2.js"
+  ]
+}
