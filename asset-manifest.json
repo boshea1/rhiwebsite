@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rhiwebsite/static/css/main.f44b00cd.css",
-    "main.js": "/rhiwebsite/static/js/main.f149ddc2.js",
+    "main.css": "/rhiwebsite/static/css/main.3eaf689c.css",
+    "main.js": "/rhiwebsite/static/js/main.b37b236d.js",
     "static/media/coffee.jpg": "/rhiwebsite/static/media/coffee.6cb2e3ebbd905f66ae36.jpg",
     "static/media/caravan.jpeg": "/rhiwebsite/static/media/caravan.4d0aec38a5c8b72d5457.jpeg",
     "static/media/cookiespic.jpg": "/rhiwebsite/static/media/cookiespic.1ad61cab68de97b0f8ed.jpg",
@@ -11,11 +11,11 @@
     "static/media/festival3.jpg": "/rhiwebsite/static/media/festival3.e19d39fc92729fe5f5f3.jpg",
     "static/media/festival4.jpg": "/rhiwebsite/static/media/festival4.3f71869e8db1917bc6aa.jpg",
     "index.html": "/rhiwebsite/index.html",
-    "main.f44b00cd.css.map": "/rhiwebsite/static/css/main.f44b00cd.css.map",
-    "main.f149ddc2.js.map": "/rhiwebsite/static/js/main.f149ddc2.js.map"
+    "main.3eaf689c.css.map": "/rhiwebsite/static/css/main.3eaf689c.css.map",
+    "main.b37b236d.js.map": "/rhiwebsite/static/js/main.b37b236d.js.map"
   },
   "entrypoints": [
-    "static/css/main.f44b00cd.css",
-    "static/js/main.f149ddc2.js"
+    "static/css/main.3eaf689c.css",
+    "static/js/main.b37b236d.js"
   ]
 }
