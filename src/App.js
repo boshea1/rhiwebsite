@@ -16,7 +16,7 @@ function App() {
 
   var list = ['Cookies','Bagels','Drinks','Coffee']
   return (
-    <div className=" relative top-6 font-fugaz text-pink-400 text-xl App">
+    <div className=" relative top-6 font-fugaz text-pink-400 lg:text-xl App">
       <div className='top-6'>
         <h1 className='text-7xl mb-4'>Rhi's Food Stop</h1>
       </div>
@@ -40,7 +40,8 @@ function App() {
       <hr className=' w-4/5 m-auto my-3'/>
       <div>
         <h1 className='text-3xl'>Gallery</h1>
-        <div className='grid lg:grid-cols-2 sm:grid-cols-1 p-4 place-items-center'>
+        <div className='grid lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1
+         p-4 place-items-center'>
           {list.map((a)=><Card no ={list.indexOf(a)} aa={a}/>)}
         </div>
       </div>

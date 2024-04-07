@@ -3,7 +3,7 @@ import React from 'react'
 
 const Card = (props) => {
   return (<>
-    <div className="card w-96 bg-base-100 shadow-xl">
+    <div className="card w-96 bg-base-100 shadow-xl ">
   <figure><img src={require(`../images/festival${props.no+1}.jpg`)} alt="Shoes" /></figure>
   <div className="card-body">
     <h2 className="card-title">{props.aa}</h2>
